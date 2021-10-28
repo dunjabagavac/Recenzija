@@ -36,17 +36,6 @@ main
     margin-left: auto;
     margin-right: auto;
 }
-/* #cb-anim
-{
-    width: 50px;
-    height: 50px;
-    top: 30px;
-    margin: 20px 0px;
-    position: relative;
-    animation: clapperboard 10s infinite;
-    -webkit-animation:clapperboard 10s infinite; 
-    -moz-animation:clapperboard 10s infinite;
-}*/
 .naslov
 {
     color: white;
@@ -76,21 +65,6 @@ main
     text-align: center;
     background-color: black;
 }
-/*@keyframes clapperboard
-{
-    from{left:350px;}
-    to{left:0px;}
-}
-@-webkit-keyframes clapperboard
-{
-    from{left:350px;}
-    to{left:0px;}
-}
-@-moz-keyframes clapperboard
-{
-    from{left:350px;}
-    to{left:0px;}
-}*/
 @media screen and (max-width: 980px) 
 {
     .naslov
