@@ -1,18 +1,19 @@
 form{
-    margin-top: 15%;
-    text-align: center;
+    background-color:white;
     background-color: rgba(255,255,255,0.9);
-    padding: 50px;  
+    margin-top: 15%;
+    padding: 50px; 
+    text-align: center;
 }
 p, legend {
     font-size: 22px;
     font-weight: bold;
 }
 input[type="submit"]{
-    padding: 10px 20px;
-    font-size: 20px;
+    background: yellow;    
     border: none;
-    background: yellow;
+    font-size: 20px;
+    padding: 10px 20px;
 }
 input[type="submit"]:hover{
     border: 2px solid rgb(177, 22, 22);
