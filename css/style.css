@@ -7,10 +7,9 @@ body
 .navMoj
 {
     background-color: white;
-    -moz-box-shadow: 5px 5px silver;
-    -webkit-box-shadow:5px 5px silver;
-    box-shadow: 5px 5px silver;
-    left:0;
+    -moz-box-shadow: 0.1px 5px 5px silver;
+    -webkit-box-shadow: 0.1px 5px 5px silver;
+    box-shadow: 0.1px 5px 5px silver;
     overflow: hidden;
     position: fixed;
     top: 0;
