@@ -68,7 +68,7 @@ main
 }
 .fb-share-button
 {
-    left:20px;
+    right:20px;
 }
 @media screen and (max-width: 980px) 
 {
