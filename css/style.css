@@ -70,7 +70,7 @@ main
 {
     float:right;
 }
-@media screen and (max-width: 768px) 
+@media screen and (max-width: 1023px) 
 {
     .naslov
     {
@@ -83,7 +83,7 @@ main
         position: static;
     }
 }
-@media screen and (max-width: 320px) 
+@media screen and (max-width: 768px) 
 {
     .navMoj a 
     {
