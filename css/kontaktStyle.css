@@ -26,7 +26,7 @@ input[type="submit"]:hover{
     }
     textarea[name="misljenje"]{width: 250px; }
     }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     form
     {
         margin-top: 80%;
