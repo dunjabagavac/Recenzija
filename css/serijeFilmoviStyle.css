@@ -75,7 +75,7 @@ p::first-letter
     text-align: center;
     width: 100%;
 }
-@media screen and (max-width: 980px) 
+@media screen and (max-width: 1023px) 
 {
     .main-serije, .main-filmovi
     {
@@ -90,7 +90,7 @@ p::first-letter
     padding: 10px;
     }
 }
-@media screen and (max-width: 600px) 
+@media screen and (max-width: 768px) 
 {
     .navMoj .pretraga,.navMoj .pretraga button
     {
